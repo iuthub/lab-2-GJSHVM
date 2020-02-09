@@ -1,0 +1,18 @@
+body{
+margin-left: 200px;
+margin-right: 300px;
+margin-top: 100px;
+margin-bottom: 50px;
+
+font-size: 15px;
+font-family: "New Times Roman";
+color: rgb(100, 190, 200);
+
+background-color: #2c7873;
+}
+h2{
+	color: blue;
+}
+.s1{
+	color: black;
+}
